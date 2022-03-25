@@ -3,4 +3,5 @@
 a = int(input())
 print(a)
 print("Hello")
+print("Hello"*5)
 print("World")
